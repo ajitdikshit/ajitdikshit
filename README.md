@@ -30,10 +30,12 @@ I am an engineering student and software developer passionate about building rob
 🦻 **HearSight**
 *   An AI-powered audio classification system designed to provide accessibility and safety for hearing-impaired users.
 *   Engineered to detect and classify critical environmental audio and road events, such as emergency sirens, in real-time.
+  <img src="https://github.com/ajitdikshit/ajitdikshit/blob/main/AVANA-Brave2026-07-0211-41-38-ezgif.com-video-to-gif-converter.gif?raw=true" width="400" alt="AVANA Demo">
 
 🔐 **Datalake Biometrics**
 *   An offline-first, edge-computing facial recognition and liveness detection terminal designed for remote locations.
 *   Built utilizing custom Kotlin bridges, TensorFlow Lite, and local SQLite storage for secure, zero-latency biometric verification that automatically synchronizes with Supabase when connectivity is restored.
+  <img src="https://github.com/ajitdikshit/ajitdikshit/blob/main/AVANA-Brave2026-07-0211-41-38-ezgif.com-video-to-gif-converter.gif?raw=true" width="400" alt="AVANA Demo">
 
 🌿 **AVANA (Plant Doctor PWA)**
 *   A Progressive Web App designed for real-time plant health diagnostics. 
@@ -43,6 +45,7 @@ I am an engineering student and software developer passionate about building rob
 🗺️ **TourEast**
 *   *A comprehensive travel and booking platform built to streamline the tourism experience.
 *   *Designed with a focus on responsive UI and seamless user navigation.
+  <img src="https://github.com/ajitdikshit/ajitdikshit/blob/main/AVANA-Brave2026-07-0211-41-38-ezgif.com-video-to-gif-converter.gif?raw=true" width="400" alt="AVANA Demo">
 
 ---
 
