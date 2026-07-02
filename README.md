@@ -45,7 +45,7 @@ I am an engineering student and software developer passionate about building rob
 🗺️ **TourEast**
 *   *A comprehensive travel and booking platform built to streamline the tourism experience.
 *   *Designed with a focus on responsive UI and seamless user navigation.
-  <img src="https://github.com/ajitdikshit/ajitdikshit/blob/main/AVANA-Brave2026-07-0211-41-38-ezgif.com-video-to-gif-converter.gif?raw=true" width="400" alt="AVANA Demo">
+  <img src="https://github.com/ajitdikshit/ajitdikshit/blob/main/Recording2026-07-02115012-ezgif.com-video-to-gif-converter.gif?raw=true" width="400" alt="AVANA Demo">
 
 ---
 
