@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Ajit Dikshit! 👋
 
-<!--
-**ajitdikshit/ajitdikshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **B.Tech Computer Science & Engineering Student @ VIT Bhopal**
 
-Here are some ideas to get you started:
+I am an engineering student and software developer passionate about building robust applications, designing interactive games, and solving complex problems. From crafting offline edge-computing tools to developing custom physics controllers in game engines, I love exploring how code interacts with the user. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+*   **Java Development:** Crafting structured, MVC-driven applications utilizing AWT, Swing, Servlets, and Enterprise Java.
+*   **Mobile & Edge Computing:** Building offline-first applications and utilizing custom Kotlin bridges for seamless performance.
+*   **Game Development:** Building mechanics and interactive environments using Unity.
+*   **Web Development:** Creating seamless user experiences and Progressive Web Apps (PWAs).
+
+---
+
+### 🛠️ Languages and Tools
+
+**Core Languages:** 
+`Java` | `Kotlin` | `JavaScript` | `HTML5` | `CSS3` | `Bash` | `SQL`
+
+**Frameworks & Technologies:** 
+`Unity 3D` | `TensorFlow Lite` | `JDBC` | `Java Servlets / EJB / RMI` | `Java AWT & Swing`
+
+**Tools & Platforms:**
+`Git/GitHub` | `Hugging Face API` | `Supabase` | `SQLite` | `Render` 
+
+---
+
+### 💻 Featured Projects
+
+🦻 **HearSight**
+*   An AI-powered audio classification system designed to provide accessibility and safety for hearing-impaired users.
+*   Engineered to detect and classify critical environmental audio and road events, such as emergency sirens, in real-time.
+
+🔐 **Datalake Biometrics**
+*   An offline-first, edge-computing facial recognition and liveness detection terminal designed for remote locations.
+*   Built utilizing custom Kotlin bridges, TensorFlow Lite, and local SQLite storage for secure, zero-latency biometric verification that automatically synchronizes with Supabase when connectivity is restored.
+
+🌿 **AVANA (Plant Doctor PWA)**
+*   A Progressive Web App designed for real-time plant health diagnostics. 
+*   Integrated external APIs (Hugging Face) to provide responsive, intelligent feedback to users within a modern web interface.
+
+🗺️ **TourEast**
+*   *A comprehensive travel and booking platform built to streamline the tourism experience. (Update this bullet point with what your app specifically does—e.g., ticket booking, itinerary planning, or exploring regional destinations).*
+*   *Designed with a focus on responsive UI and seamless user navigation. (Update with your specific tech stack for this project).*
+
+---
+
+### 🗄️ Other Notable Work
+
+*   🏎️ **F1 Racing Simulator:** Unity-based interactive racing game featuring a custom raycast-based car controller, wheel synchronization, and a dynamic spring-arm camera.
+*   🎓 **Student Management System:** Database-driven Java JDBC desktop application adhering to the MVC architectural pattern.
+*   🔍 **System Audit Toolkit:** Suite of automated Bash scripts for efficient system analysis, disk auditing, and package inspection.
+
+---
+
+### 📫 Let's Connect!
+
+I'm always excited to talk about tech, edge computing, or new development paradigms. 
+
+🌐 **Check out my full portfolio:** https://portfolio-wine-three-pu6o3tt0dh.vercel.app
