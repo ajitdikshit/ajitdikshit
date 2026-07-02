@@ -24,8 +24,6 @@ I am an engineering student and software developer passionate about building rob
 `Git/GitHub` | `Hugging Face API` | `Supabase` | `SQLite` 
 
 ---
-<img src="link-to-your-hosted-gif.gif" width="400" alt="F1 Racing Simulator Gameplay">
----
 
 ### 💻 Featured Projects
 
@@ -40,6 +38,7 @@ I am an engineering student and software developer passionate about building rob
 🌿 **AVANA (Plant Doctor PWA)**
 *   A Progressive Web App designed for real-time plant health diagnostics. 
 *   Integrated external APIs (Hugging Face) to provide responsive, intelligent feedback to users within a modern web interface.
+    <img src="[link-to-your-hosted-gif.gif](https://github.com/ajitdikshit/ajitdikshit/blob/main/AVANA-Brave2026-07-0211-41-38-ezgif.com-video-to-gif-converter.gif?raw=true)" width="400" alt="AVANA Demo">
 
 🗺️ **TourEast**
 *   *A comprehensive travel and booking platform built to streamline the tourism experience.
