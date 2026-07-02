@@ -15,13 +15,13 @@ I am an engineering student and software developer passionate about building rob
 ### 🛠️ Languages and Tools
 
 **Core Languages:** 
-`Java` | `Kotlin` | `JavaScript` | `HTML5` | `CSS3` | `Bash` | `SQL`
+`Java` | `React` | `JavaScript` | `HTML5` | `CSS3` | `SQL`
 
 **Frameworks & Technologies:** 
-`Unity 3D` | `TensorFlow Lite` | `JDBC` | `Java Servlets / EJB / RMI` | `Java AWT & Swing`
+`Unity 3D` | `TensorFlow Lite` | `JDBC` | `Java Servlets / EJB ` | `Java AWT & Swing`
 
 **Tools & Platforms:**
-`Git/GitHub` | `Hugging Face API` | `Supabase` | `SQLite` | `Render` 
+`Git/GitHub` | `Hugging Face API` | `Supabase` | `SQLite` 
 
 ---
 
@@ -40,16 +40,14 @@ I am an engineering student and software developer passionate about building rob
 *   Integrated external APIs (Hugging Face) to provide responsive, intelligent feedback to users within a modern web interface.
 
 🗺️ **TourEast**
-*   *A comprehensive travel and booking platform built to streamline the tourism experience. (Update this bullet point with what your app specifically does—e.g., ticket booking, itinerary planning, or exploring regional destinations).*
-*   *Designed with a focus on responsive UI and seamless user navigation. (Update with your specific tech stack for this project).*
+*   *A comprehensive travel and booking platform built to streamline the tourism experience.
+*   *Designed with a focus on responsive UI and seamless user navigation.
 
 ---
 
 ### 🗄️ Other Notable Work
 
 *   🏎️ **F1 Racing Simulator:** Unity-based interactive racing game featuring a custom raycast-based car controller, wheel synchronization, and a dynamic spring-arm camera.
-*   🎓 **Student Management System:** Database-driven Java JDBC desktop application adhering to the MVC architectural pattern.
-*   🔍 **System Audit Toolkit:** Suite of automated Bash scripts for efficient system analysis, disk auditing, and package inspection.
 
 ---
 
