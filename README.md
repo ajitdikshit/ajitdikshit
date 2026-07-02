@@ -24,6 +24,11 @@ I am an engineering student and software developer passionate about building rob
 `Git/GitHub` | `Hugging Face API` | `Supabase` | `SQLite` 
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitdikshit&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
 
 ### 💻 Featured Projects
 
